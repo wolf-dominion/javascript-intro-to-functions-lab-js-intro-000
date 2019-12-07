@@ -12,13 +12,13 @@ function whisper(string)
 
 function logShout(string)
 {
-  return console.log(string.toUpperCase)
+  return console.log(string.toUpperCase);
 }
 
 function logWhisper(string)
 {
-  return console.log(string.toLowerCase)
+  return console.log(string.toLowerCase);
 }
 
-logShout(string);
 logWhisper(string);
+logShout(string);
