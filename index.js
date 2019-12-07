@@ -39,6 +39,6 @@ function sayHiToGrandma(string)
 }
 
 
-
+sayHiToGrandma(string);
 logWhisper(string);
 logShout(string);
